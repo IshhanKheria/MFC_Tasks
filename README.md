@@ -39,31 +39,31 @@ This repository contains two Java programs:
     java LibraryManagement
     ```
 
-# 🔢 Sorting Complexity Analysis
+## 🔢 Sorting Complexity Analysis
 
 This Java program implements and compares the performance of several common sorting algorithms.
 
-## 📝 Features:
+### 📝 Features:
 
 * **Algorithm Implementations:** Includes Bubble Sort, Selection Sort, and Insertion Sort.
 * **Time Complexity Analysis:** Measures the execution time of each sorting algorithm to demonstrate their performance characteristics.
 * **Random Data Generation:** Generates arrays of random integers to test the algorithms with diverse input.
 * **Performance Comparison:** Displays the execution time for each algorithm, allowing for a direct comparison of their efficiency.
 
-## 🚀 How It Works:
+### 🚀 How It Works:
 
 1.  **Random Array Generation:** The program generates an array of random integers with a configurable size.
 2.  **Algorithm Execution:** Each sorting algorithm (Bubble Sort, Selection Sort, Insertion Sort) is applied to a copy of the generated array.
 3.  **Time Measurement:** The execution time for each algorithm is measured using `System.currentTimeMillis()`.
 4.  **Result Display:** The program displays the execution time for each algorithm, providing a comparison of their performance.
 
-## 🏗 Technologies Used:
+### 🏗 Technologies Used:
 
 * **Java:** The program is written in Java.
 * **Basic Sorting Algorithms:** Implementation of fundamental sorting algorithms.
 * **Time Measurement:** Utilizes `System.currentTimeMillis()` for performance analysis.
 
-## 📌 How to Run:
+### 📌 How to Run:
 
 1.  **Compile the program:**
 
